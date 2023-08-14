@@ -1,0 +1,17 @@
+C:\Proyectos\C# proyectos\myfirstapp\bin\Debug\net7.0\myfirstapp.exe
+C:\Proyectos\C# proyectos\myfirstapp\bin\Debug\net7.0\myfirstapp.deps.json
+C:\Proyectos\C# proyectos\myfirstapp\bin\Debug\net7.0\myfirstapp.runtimeconfig.json
+C:\Proyectos\C# proyectos\myfirstapp\bin\Debug\net7.0\myfirstapp.dll
+C:\Proyectos\C# proyectos\myfirstapp\bin\Debug\net7.0\myfirstapp.pdb
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.AssemblyInfo.cs
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.dll
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\refint\myfirstapp.dll
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.pdb
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.genruntimeconfig.cache
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\ref\myfirstapp.dll
+C:\Proyectos\C# proyectos\myfirstapp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.csproj.AssemblyReference.cache
+C:\Proyectos\C# proyectos\myfirstapp\obj\Debug\net7.0\myfirstapp.csproj.CopyComplete
